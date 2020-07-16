@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/backup/slider/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/accomplishments/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/featured/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/hero/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/people/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
